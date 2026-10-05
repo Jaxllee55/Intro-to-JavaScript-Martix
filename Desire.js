@@ -21,4 +21,4 @@ const laptop = {
 
 }; //object
 
-console.log(name, gp, student, networth, children);
+console.log(laptop);

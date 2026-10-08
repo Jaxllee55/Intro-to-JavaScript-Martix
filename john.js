@@ -8,7 +8,7 @@ const chamber = null,
 const friends = ["kachi"];//Array
 const laptop = {
 name:"lenovo",
-agemonths:1,
+ageMonths:1,
 on: true,
 display: undefined,
 favouritespecs: ["Ultra HD", "13th Gen"],
